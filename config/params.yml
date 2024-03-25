@@ -1,0 +1,2 @@
+format: 137+140
+outtmpl: C:\Users\these\Projects\universal_dl\output\%(title)s.%(ext)s

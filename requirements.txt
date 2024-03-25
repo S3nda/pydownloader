@@ -1,0 +1,4 @@
+pyyaml
+customtkinter
+yt-dlp
+spotdl
