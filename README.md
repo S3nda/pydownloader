@@ -5,8 +5,8 @@ A simple GUI tool for downloading Youtube/Spotify music.
 
 ## Installation
 
-1. **install the requirements**:
-   - On Windows: `pip install -r requirements.txt`
+1. **install the requirements**: `pip install -r requirements.txt`
+3. **install ffmpeg**: https://ffmpeg.org/download.html
 
 ## Usage
 - run the file : `python main.py`
