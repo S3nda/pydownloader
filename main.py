@@ -87,7 +87,7 @@ class App(customtkinter.CTk):
             text="open config folder",
             command=self.open_explorer,
         )
-        self.check2.grid(row=2, column=1, pady=20)
+        self.check2.grid(row=2, column=1, pady=20, padx=20)
 
         self.audioCheckbox = customtkinter.CTkCheckBox(
             master=self.checkframe,
