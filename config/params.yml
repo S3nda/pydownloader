@@ -1,2 +1,2 @@
 format: 137+140
-outtmpl: C:\Users\these\Projects\universal_dl\output\%(title)s.%(ext)s
+outtmpl: C:\Users\these\Projects\pydownloader\output\%(title)s.%(ext)s
