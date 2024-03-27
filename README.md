@@ -11,8 +11,9 @@ A simple GUI tool for downloading Youtube/Spotify music.
 ## Usage
 - run the file : `python main.py`
 - just paste the link of a spotify music or a youtube video and click download !
-  
-![image](https://github.com/S3nda/pydownloader/assets/91835279/8ccb15e5-3abc-4ebf-86df-ae5c211572df)
+
+![image](https://github.com/S3nda/pydownloader/assets/91835279/f6c398ea-c172-40d0-86a0-9cdfbb08e0ed)
+
 
 ## License
 
