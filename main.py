@@ -109,17 +109,15 @@ class App(customtkinter.CTk):
         if config:
             emplacement = str(path / "config")
         else:
-            print("params", params)
             emplacement = re.split(r"[\\/]+", params["outtmpl"])
             emplacement = "\\".join(emplacement[:-1])
 
         for i in explorer_list:
             try:
-                print("trying", i, "at", emplacement)
                 subprocess.run([i, emplacement])
                 return
             except:
-                print("failed")
+                print("failed opening the dir !")
                 pass
 
     def downloader(self):
