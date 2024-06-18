@@ -116,7 +116,7 @@ class App(customtkinter.CTk):
             try:
                 subprocess.run([i, emplacement])
                 return
-            except:
+            except Exception:
                 print("failed opening the dir !")
                 pass
 
